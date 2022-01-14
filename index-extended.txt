@@ -3,4 +3,5 @@
 2022-01-07 50DBC583 genesis_plus_gx_libretro_ps3.SELF.zip
 2022-01-07 4ED1F759 fceumm_libretro_ps3.SELF.zip
 2022-01-10 853A0B2A fbalpha2012_libretro_ps3.SELF.zip
-2022-01-11 43B1FDCF fbneo_light_libretro_ps3.SELF
+2022-01-11 43B1FDCF fbneo_light_libretro_ps3.SELF.zip
+2022-01-14 9644DA40 puae_libretro_ps3.SELF.zip
