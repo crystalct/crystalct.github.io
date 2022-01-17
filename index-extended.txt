@@ -5,3 +5,4 @@
 2022-01-10 853A0B2A fbalpha2012_libretro_ps3.SELF.zip
 2022-01-11 43B1FDCF fbneo_light_libretro_ps3.SELF.zip
 2022-01-14 9644DA40 puae_libretro_ps3.SELF.zip
+2022-01-17 CEA59A57 snes9x_libretro_ps3.SELF.zip
