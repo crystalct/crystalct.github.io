@@ -11,3 +11,4 @@
 2022-01-18 AC48D4F6 mame2003_libretro_ps3.SELF.zip
 2022-01-21 BA39A518 mame2003_plus_libretro_ps3.SELF.zip
 2022-01-21 457B102F mednafen_pce_fast_libretro_ps3.SELF.zip
+2022-01-24 853CC789 2048_libretro_ps3.SELF.zip
