@@ -1,6 +1,6 @@
 2022-01-04 FB4C1B7F vice_x64_libretro_ps3.SELF.zip
 2022-01-07 2ACB14AD fbneo_libretro_ps3.SELF.zip
-2022-01-07 8EBC0223 genesis_plus_gx_libretro_ps3.SELF.zip
+2022-02-02 2C0C16BE genesis_plus_gx_libretro_ps3.SELF.zip
 2022-02-01 F43C579D fceumm_libretro_ps3.SELF.zip
 2022-01-10 853A0B2A fbalpha2012_libretro_ps3.SELF.zip
 2022-01-11 43B1FDCF fbneo_light_libretro_ps3.SELF.zip
