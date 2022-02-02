@@ -15,3 +15,10 @@
 2022-01-27 79E9575F mgba_libretro_ps3.SELF.zip
 2022-02-02 9DA3F921 vice_x64dtv_libretro_ps3.SELF.zip
 2022-02-02 2F74FB16 vice_x64sc_libretro_ps3.SELF.zip
+2022-02-02 8932B451 vice_x128_libretro_ps3.SELF.zip
+2022-02-02 2501EF26 vice_xcbm2_libretro_ps3.SELF.zip
+2022-02-02 7F9E64FB vice_xcbm5x0_libretro_ps3.SELF.zip
+2022-02-02 F0A30FA6 vice_xpet_libretro_ps3.SELF.zip
+2022-02-02 F91D645C vice_xplus4_libretro_ps3.SELF.zip
+2022-02-02 C72441B0 vice_xscpu64_libretro_ps3.SELF.zip
+2022-02-02 81A50B35 vice_xvic_libretro_ps3.SELF.zip
