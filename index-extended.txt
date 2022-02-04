@@ -22,5 +22,4 @@
 2022-02-02 F91D645C vice_xplus4_libretro_ps3.SELF.zip
 2022-02-02 C72441B0 vice_xscpu64_libretro_ps3.SELF.zip
 2022-02-02 81A50B35 vice_xvic_libretro_ps3.SELF.zip
-2022-02-04 58EA69FD mame2003_midway_libretro_ps3.SELF.zip
 2022-02-02 969721FD vba_next_libretro_ps3.SELF.zip
