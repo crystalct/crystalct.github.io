@@ -1,6 +1,7 @@
 2022-02-02 CA0EC50F vice_x64_libretro_ps3.SELF.zip
 2022-01-07 2ACB14AD fbneo_libretro_ps3.SELF.zip
 2022-02-02 2C0C16BE genesis_plus_gx_libretro_ps3.SELF.zip
+2022-02-02 03AB3320 genesis_plus_gx_wide_libretro_ps3.SELF.zip
 2022-02-01 F43C579D fceumm_libretro_ps3.SELF.zip
 2022-02-04 AAEED7CC fbalpha2012_libretro_ps3.SELF.zip
 2022-01-11 43B1FDCF fbneo_light_libretro_ps3.SELF.zip
@@ -12,7 +13,7 @@
 2022-01-21 BA39A518 mame2003_plus_libretro_ps3.SELF.zip
 2022-01-21 457B102F mednafen_pce_fast_libretro_ps3.SELF.zip
 2022-01-24 853CC789 2048_libretro_ps3.SELF.zip
-2022-02-02 75BBFB7C mgba_libretro_ps3.SELF.zip
+2022-02-04 mgba_libretro_ps3.SELF.zip mgba_libretro_ps3.SELF.zip
 2022-02-02 9DA3F921 vice_x64dtv_libretro_ps3.SELF.zip
 2022-02-02 2F74FB16 vice_x64sc_libretro_ps3.SELF.zip
 2022-02-02 8932B451 vice_x128_libretro_ps3.SELF.zip
