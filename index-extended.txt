@@ -28,3 +28,4 @@
 2022-02-05 4EF0E2E3 mednafen_pce_libretro_ps3.SELF.zip
 2022-02-05 7EDADEC4 2048_libretro_ps3.SELF
 2022-02-05 9EF93853 cap32_libretro_ps3.SELF
+2022-02-05 143C0355 dosbox_libretro_ps3.SELF.zip
