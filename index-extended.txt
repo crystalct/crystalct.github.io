@@ -26,3 +26,4 @@
 2022-02-02 969721FD vba_next_libretro_ps3.SELF.zip
 2022-02-05 3915C1C6 stella2014_libretro_ps3.SELF.zip
 2022-02-05 F9FC27A9 mednafen_supergrafx_libretro_ps3.SELF.zip
+2022-02-05 4EF0E2E3 mednafen_pce_libretro_ps3.SELF.zip
