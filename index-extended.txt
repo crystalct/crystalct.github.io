@@ -30,3 +30,4 @@
 2022-02-05 9EF93853 cap32_libretro_ps3.SELF
 2022-02-06 143C0355 dosbox_libretro_ps3.SELF.zip
 2022-02-06 BC961052 dosbox_svn_libretro_ps3.SELF.zip
+2022-02-06 CA928061 atari800_libretro_ps3.SELF.zip
