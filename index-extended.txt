@@ -26,9 +26,9 @@
 2022-02-05 3915C1C6 stella2014_libretro_ps3.SELF.zip
 2022-02-05 F9FC27A9 mednafen_supergrafx_libretro_ps3.SELF.zip
 2022-02-05 4EF0E2E3 mednafen_pce_libretro_ps3.SELF.zip
-2022-02-05 7EDADEC4 2048_libretro_ps3.SELF
-2022-02-05 9EF93853 cap32_libretro_ps3.SELF
+2022-02-05 7EDADEC4 2048_libretro_ps3.SELF.zip
+2022-02-05 9EF93853 cap32_libretro_ps3.SELF.zip
 2022-02-06 143C0355 dosbox_libretro_ps3.SELF.zip
 2022-02-06 BC961052 dosbox_svn_libretro_ps3.SELF.zip
 2022-02-06 CA928061 atari800_libretro_ps3.SELF.zip
-2022-02-07 3B9F2A7D mame2003_midway_libretro_ps3.SELF
+2022-02-07 3B9F2A7D mame2003_midway_libretro_ps3.SELF.zip
