@@ -31,3 +31,4 @@
 2022-02-06 143C0355 dosbox_libretro_ps3.SELF.zip
 2022-02-06 BC961052 dosbox_svn_libretro_ps3.SELF.zip
 2022-02-06 CA928061 atari800_libretro_ps3.SELF.zip
+2022-02-07 3B9F2A7D mame2003_midway_libretro_ps3.SELF
