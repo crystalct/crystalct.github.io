@@ -7,8 +7,8 @@
 2022-02-07 143c0355 dosbox_libretro_ps3.SELF.zip
 2022-02-08 bc961052 dosbox_svn_libretro_ps3.SELF.zip
 2022-02-08 aaeed7cc fbalpha2012_libretro_ps3.SELF.zip
-2022-01-07 2acb14ad fbneo_libretro_ps3.SELF.zip
-2022-02-02 43b1fdcf fbneo_light_libretro_ps3.SELF.zip
+2022-02-08 b17be8ee fbneo_libretro_ps3.SELF.zip
+2022-02-08 f2168a32 fbneo_light_libretro_ps3.SELF.zip
 2022-02-01 f43c579d fceumm_libretro_ps3.SELF.zip
 2021-04-19 48b03d6e freeintv_libretro_ps3.SELF.zip
 2021-04-19 bf978349 fuse_libretro_ps3.SELF.zip
