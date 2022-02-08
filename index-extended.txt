@@ -22,6 +22,7 @@
 2021-04-19 3b8ef002 hatari_libretro_ps3.SELF.zip
 2022-01-18 0b5a4637 mame2000_libretro_ps3.SELF.zip
 2022-01-18 ac48d4f6 mame2003_libretro_ps3.SELF.zip
+2022-02-07 3B9F2A7D mame2003_midway_libretro_ps3.SELF.zip
 2022-01-21 ba39a518 mame2003_plus_libretro_ps3.SELF.zip
 2021-04-19 488e3a66 mednafen_lynx_libretro_ps3.SELF.zip
 2021-04-19 190082ab mednafen_ngp_libretro_ps3.SELF.zip
