@@ -16,6 +16,7 @@
 2021-04-19 2896d786 gearboy_libretro_ps3.SELF.zip
 2022-02-08 68cda94f gearsystem_libretro_ps3.SELF.zip
 2022-02-02 2c0c16be genesis_plus_gx_libretro_ps3.SELF.zip
+2022-02-02 03AB3320 genesis_plus_gx_wide_libretro_ps3.SELF.zip
 2021-04-19 c623e081 gme_libretro_ps3.SELF.zip
 2021-04-19 641f286f gw_libretro_ps3.SELF.zip
 2021-04-19 8ee03bd7 handy_libretro_ps3.SELF.zip
@@ -28,6 +29,7 @@
 2021-04-19 190082ab mednafen_ngp_libretro_ps3.SELF.zip
 2022-01-21 457b102f mednafen_pce_fast_libretro_ps3.SELF.zip
 2022-02-08 4ef0e2e3 mednafen_pce_libretro_ps3.SELF.zip
+2022-02-05 F9FC27A9 mednafen_supergrafx_libretro_ps3.SELF.zip
 2021-04-19 317764da mednafen_vb_libretro_ps3.SELF.zip
 2021-04-19 1425d259 mednafen_wswan_libretro_ps3.SELF.zip
 2022-02-08 6ff2afe7 mgba_libretro_ps3.SELF.zip
