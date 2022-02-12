@@ -11,7 +11,7 @@
 2022-02-08 f2168a32 fbneo_light_libretro_ps3.SELF.zip
 2022-02-01 f43c579d fceumm_libretro_ps3.SELF.zip
 2022-02-11 2F93934C freeintv_libretro_ps3.SELF.zip
-2021-04-19 bf978349 fuse_libretro_ps3.SELF.zip
+2022-02-12 C4DA2B0F fuse_libretro_ps3.SELF.zip
 2021-04-19 d9a310c8 gambatte_libretro_ps3.SELF.zip
 2021-04-19 2896d786 gearboy_libretro_ps3.SELF.zip
 2022-02-08 68cda94f gearsystem_libretro_ps3.SELF.zip
