@@ -13,7 +13,7 @@
 2022-02-11 2F93934C freeintv_libretro_ps3.SELF.zip
 2022-02-12 C4DA2B0F fuse_libretro_ps3.SELF.zip
 2022-02-12 59596866 gambatte_libretro_ps3.SELF.zip
-2021-04-19 2896d786 gearboy_libretro_ps3.SELF.zip
+2022-02-12 FAEB3D55 gearboy_libretro_ps3.SELF.zip
 2022-02-08 68cda94f gearsystem_libretro_ps3.SELF.zip
 2022-02-02 2c0c16be genesis_plus_gx_libretro_ps3.SELF.zip
 2022-02-02 03AB3320 genesis_plus_gx_wide_libretro_ps3.SELF.zip
