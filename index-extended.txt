@@ -18,7 +18,7 @@
 2022-02-02 2c0c16be genesis_plus_gx_libretro_ps3.SELF.zip
 2022-02-02 03AB3320 genesis_plus_gx_wide_libretro_ps3.SELF.zip
 2022-02-12 FF12C7DE gme_libretro_ps3.SELF.zip
-2021-04-19 641f286f gw_libretro_ps3.SELF.zip
+2022-02-12 106CEEA5 gw_libretro_ps3.SELF.zip
 2021-04-19 8ee03bd7 handy_libretro_ps3.SELF.zip
 2021-04-19 3b8ef002 hatari_libretro_ps3.SELF.zip
 2022-01-18 0b5a4637 mame2000_libretro_ps3.SELF.zip
