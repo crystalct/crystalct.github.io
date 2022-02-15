@@ -20,7 +20,7 @@
 2022-02-12 FF12C7DE gme_libretro_ps3.SELF.zip
 2022-02-12 106CEEA5 gw_libretro_ps3.SELF.zip
 2022-02-15 910B24E7 handy_libretro_ps3.SELF.zip
-2021-04-19 3b8ef002 hatari_libretro_ps3.SELF.zip
+2022-02-15 AD397327 hatari_libretro_ps3.SELF.zip
 2022-02-14 E9B4BE74 mame2000_libretro_ps3.SELF.zip
 2022-02-14 04A32BB6 mame2003_libretro_ps3.SELF.zip
 2022-02-14 AC638DCE mame2003_midway_libretro_ps3.SELF.zip
