@@ -30,7 +30,7 @@
 2022-02-17 913E8EA1 mednafen_pce_fast_libretro_ps3.SELF.zip
 2022-02-17 FB61B65B mednafen_pce_libretro_ps3.SELF.zip
 2022-02-17 9394F407 mednafen_supergrafx_libretro_ps3.SELF.zip
-2021-04-19 317764da mednafen_vb_libretro_ps3.SELF.zip
+2022-02-21 C1FE9CD9 mednafen_vb_libretro_ps3.SELF.zip
 2021-04-19 1425d259 mednafen_wswan_libretro_ps3.SELF.zip
 2022-02-08 6ff2afe7 mgba_libretro_ps3.SELF.zip
 2021-04-19 4feed03f mu_libretro_ps3.SELF.zip
