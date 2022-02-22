@@ -32,7 +32,7 @@
 2022-02-17 9394F407 mednafen_supergrafx_libretro_ps3.SELF.zip
 2022-02-21 C1FE9CD9 mednafen_vb_libretro_ps3.SELF.zip
 2022-02-21 E0C9826A mednafen_wswan_libretro_ps3.SELF.zip
-2022-02-08 6ff2afe7 mgba_libretro_ps3.SELF.zip
+2022-02-21 43CCC4BF mgba_libretro_ps3.SELF.zip
 2022-02-21 467E73C9 mu_libretro_ps3.SELF.zip
 2022-02-22 55CC42DD nestopia_libretro_ps3.SELF.zip
 2022-02-22 EFB16C2E nxengine_libretro_ps3.SELF.zip
