@@ -42,7 +42,7 @@
 2022-02-25 95521E7A prboom_libretro_ps3.SELF.zip
 2022-02-28 B26F4B9C prosystem_libretro_ps3.SELF.zip
 2022-02-08 2f210a94 puae_libretro_ps3.SELF.zip
-2021-04-19 44427654 quicknes_libretro_ps3.SELF.zip
+2022-02-28 B92A7115 quicknes_libretro_ps3.SELF.zip
 2021-04-19 a8b89943 snes9x2005_libretro_ps3.SELF.zip
 2021-04-19 20b305ec snes9x2005_plus_libretro_ps3.SELF.zip
 2021-04-19 0fc14791 snes9x2010_libretro_ps3.SELF.zip
