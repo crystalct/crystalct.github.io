@@ -47,8 +47,8 @@
 2022-02-28 D7363B3D snes9x2005_plus_libretro_ps3.SELF.zip
 2022-02-28 1C274A87 snes9x2010_libretro_ps3.SELF.zip
 2022-02-28 C4F004DE snes9x_libretro_ps3.SELF.zip
-2021-04-19 549a3546 squirreljme_libretro_ps3.SELF.zip
-2022-02-08 3915c1c6 stella2014_libretro_ps3.SELF.zip
+2022-03-01 E392821F squirreljme_libretro_ps3.SELF.zip
+2022-03-01 34BE2EAD stella2014_libretro_ps3.SELF.zip
 2021-04-19 82290e5e theodore_libretro_ps3.SELF.zip
 2021-04-19 55095bea tyrquake_libretro_ps3.SELF.zip
 2022-02-08 969721fd vba_next_libretro_ps3.SELF.zip
