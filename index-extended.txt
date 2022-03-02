@@ -52,7 +52,7 @@
 2022-03-02 F0D96F4B theodore_libretro_ps3.SELF.zip
 2022-03-02 DC0AC64F tyrquake_libretro_ps3.SELF.zip
 2022-03-02 BF9802CD vba_next_libretro_ps3.SELF.zip
-2021-04-19 4bc22bd9 vecx_libretro_ps3.SELF.zip
+2022-03-02 0CED4C16 vecx_libretro_ps3.SELF.zip
 2022-02-08 8932b451 vice_x128_libretro_ps3.SELF.zip
 2022-02-02 ca0ec50f vice_x64_libretro_ps3.SELF.zip
 2022-02-02 9da3f921 vice_x64dtv_libretro_ps3.SELF.zip
