@@ -63,4 +63,4 @@
 2022-02-08 f91d645c vice_xplus4_libretro_ps3.SELF.zip
 2022-02-08 c72441b0 vice_xscpu64_libretro_ps3.SELF.zip
 2022-02-02 81a50b35 vice_xvic_libretro_ps3.SELF.zip
-2021-04-19 67b54d24 virtualjaguar_libretro_ps3.SELF.zip
+2022-03-04 057C3533 virtualjaguar_libretro_ps3.SELF.zip
