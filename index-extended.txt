@@ -1,5 +1,6 @@
 2022-02-08 bb938fc6 2048_libretro_ps3.SELF.zip
 2022-02-10 325661FE 81_libretro_ps3.SELF.zip
+2022-03-08 F5CF515D a5200_libretro_ps3.SELF.zip
 2022-02-08 ca928061 atari800_libretro_ps3.SELF.zip
 2022-02-11 B2CB6EA4 bluemsx_libretro_ps3.SELF.zip
 2022-02-11 5138D12F cannonball_libretro_ps3.SELF.zip
