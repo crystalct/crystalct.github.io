@@ -42,7 +42,7 @@
 2022-02-22 55CC42DD nestopia_libretro_ps3.SELF.zip
 2022-02-22 EFB16C2E nxengine_libretro_ps3.SELF.zip
 2022-02-22 971DC777 o2em_libretro_ps3.SELF.zip
-2022-02-23 F06F9951 picodrive_libretro_ps3.SELF.zip
+2022-11-23 2662FBD6 picodrive_libretro_ps3.SELF.zip
 2022-02-24 6B4462D8 pokemini_libretro_ps3.SELF.zip
 2022-02-25 95521E7A prboom_libretro_ps3.SELF.zip
 2022-02-28 B26F4B9C prosystem_libretro_ps3.SELF.zip
