@@ -10,7 +10,7 @@
 2022-02-08 aaeed7cc fbalpha2012_libretro_ps3.SELF.zip
 2022-02-08 b17be8ee fbneo_libretro_ps3.SELF.zip
 2022-02-08 f2168a32 fbneo_light_libretro_ps3.SELF.zip
-2023-01-10 580EB381 fceumm_libretro_ps3.SELF.zip
+2023-01-10 29358047 fceumm_libretro_ps3.SELF.zip
 2022-03-08 D1118CE0 fmsx_libretro_ps3.SELF.zip
 2022-02-11 2F93934C freeintv_libretro_ps3.SELF.zip
 2022-02-12 C4DA2B0F fuse_libretro_ps3.SELF.zip
